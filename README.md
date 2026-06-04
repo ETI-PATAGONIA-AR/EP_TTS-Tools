@@ -3,6 +3,7 @@ EP_TTS — Estudio de producción voz neural multi-voz, local y sin complicacion
 
 <img width="1032" height="692" alt="Captura de pantalla 2026-06-04 145305" src="https://github.com/user-attachments/assets/7b86be10-3369-441f-b62a-035dc3ecca5e" />
 
+
 🚀 Aplicación **local** de Text-to-Speech con voces neurales Microsoft edge-tts.  
 🎭 Interfaz profesional multi-escena, multi-interlocutor con tono y velocidad configurables **por voz**.
 
