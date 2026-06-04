@@ -43,6 +43,28 @@ EP_TTS — Estudio de producción voz neural multi-voz, local y sin complicacion
 - ✅ **Node.js** 18+
 - ✅ **Python** 3.8+
 
+## ⚙️ Instrucciones de uso
+
+1. Ejecutá `EP_TTS.bat` — se abre el navegador en `http://localhost:3000`
+2. En el panel izquierdo, agregá o seleccioná los **interlocutores** y asignales una voz
+
+<img width="321" height="425" alt="Captura de pantalla 2026-06-04 154915" src="https://github.com/user-attachments/assets/d874b36e-2a54-4d02-ac92-b90df788b9fe" />
+   
+3. Ajustá el **tono** (grave/agudo) y **velocidad** (lento/rápido) de cada voz por separado
+
+<img width="323" height="420" alt="Captura de pantalla 2026-06-04 154533" src="https://github.com/user-attachments/assets/ea106dfa-2423-4d3f-aaaa-f61fdfc7f37f" />
+
+4. En el editor, escribí el guión usando los botones `Speaker A:`, `Speaker B:` para insertar prefijos
+
+<img width="661" height="492" alt="Captura de pantalla 2026-06-04 154355" src="https://github.com/user-attachments/assets/1247f5d1-917b-47af-87c2-da7891bcff5a" />
+  
+5. Hacé clic en **Sintetizar** — el audio se genera y aparece en el Historial
+6. Reproducí, pausá o descargá los audios desde el Historial o el reproductor inferior
+
+<img width="658" height="420" alt="Captura de pantalla 2026-06-04 154701" src="https://github.com/user-attachments/assets/0f901e2e-c386-4186-9f1f-f48791204ce0" />
+
+> 💡 Usá **escenas** para organizar distintos proyectos o capítulos, y **perfiles** para guardar configuraciones de voces que uses seguido.
+
 ## 🚀 Instalación y ejecución
 
 ```bash
